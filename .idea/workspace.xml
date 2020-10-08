@@ -11,9 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1e2d4fd-c0fc-4c0e-a61b-22eb70899f35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic01c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic01original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic02original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic03original.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602034588880</updated>
-      <workItem from="1602034590776" duration="901000" />
+      <workItem from="1602034590776" duration="1364000" />
+      <workItem from="1602130391086" duration="1274000" />
     </task>
     <servers />
   </component>
@@ -59,5 +66,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
