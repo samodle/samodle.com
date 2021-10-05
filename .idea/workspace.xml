@@ -11,15 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1e2d4fd-c0fc-4c0e-a61b-22eb70899f35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/pic01c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic01original.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic02original.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic03original.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +41,24 @@
       <option name="presentableId" value="Default" />
       <updated>1602034588880</updated>
       <workItem from="1602034590776" duration="1364000" />
-      <workItem from="1602130391086" duration="1274000" />
+      <workItem from="1602130391086" duration="1543000" />
+      <workItem from="1602366360116" duration="2283000" />
     </task>
+    <task id="LOCAL-00001" summary="v2">
+      <created>1602132221732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132221732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating site">
+      <created>1602368876359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602368876359</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +75,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v2" />
+    <MESSAGE value="updating site" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating site" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="261" key="Vcs.Push.Dialog.v2" timestamp="1602368879276">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="530" y="261" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602368879276" />
   </component>
 </project>
